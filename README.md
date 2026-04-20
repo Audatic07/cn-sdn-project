@@ -63,7 +63,7 @@ pingall
 
 ## Proof of Execution
 
-![wireshark_output](images/WhatsApp Image 2026-04-20 at 11.43.35 AM (1).jpeg)
-![controller](images/WhatsApp Image 2026-04-20 at 11.43.35 AM (2).jpeg)
-![logs](images/WhatsApp Image 2026-04-20 at 11.43.35 AM (3).jpeg)
-![mininet](images/WhatsApp Image 2026-04-20 at 11.43.35 AM.jpeg)
+![wireshark_output](images/img1)
+![controller](images/img2)
+![logs](images/img3)
+![mininet](images/img4)
