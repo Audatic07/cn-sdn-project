@@ -63,7 +63,7 @@ pingall
 
 ## Proof of Execution
 
-![wireshark_output](images/img1)
-![controller](images/img2)
-![logs](images/img3)
-![mininet](images/img4)
+![wireshark_output](images/img1.jpeg)
+![controller](images/img2.jpeg)
+![logs](images/img3.jpeg)
+![mininet](images/img4.jpeg)
