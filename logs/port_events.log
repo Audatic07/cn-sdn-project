@@ -1,0 +1,47 @@
+2026-04-20 09:48:45 [INFO] POX controller started
+2026-04-20 09:49:20 [INFO] Switch connected: 00-00-00-00-00-01
+2026-04-20 09:51:25 [INFO] Port change on 00-00-00-00-00-01:1 reason=DELETE state=UP
+2026-04-20 09:51:25 [INFO] Port change on 00-00-00-00-00-01:2 reason=DELETE state=UP
+2026-04-20 09:51:25 [INFO] Port change on 00-00-00-00-00-01:3 reason=DELETE state=UP
+2026-04-20 09:51:25 [ALERT] Switch disconnected: 00-00-00-00-00-01
+2026-04-20 09:57:45 [INFO] POX controller started
+2026-04-20 09:57:47 [INFO] Switch connected: 00-00-00-00-00-01
+2026-04-20 10:04:31 [ALERT] Port change on 00-00-00-00-00-01:2 reason=MODIFY state=DOWN
+2026-04-20 10:04:41 [ALERT] Port change on 00-00-00-00-00-01:2 reason=MODIFY state=DOWN
+2026-04-20 10:04:41 [INFO] Port change on 00-00-00-00-00-01:2 reason=MODIFY state=UP
+2026-04-20 10:04:49 [ALERT] Port change on 00-00-00-00-00-01:3 reason=MODIFY state=DOWN
+2026-04-20 10:05:03 [ALERT] Port change on 00-00-00-00-00-01:3 reason=MODIFY state=DOWN
+2026-04-20 10:05:04 [INFO] Port change on 00-00-00-00-00-01:3 reason=MODIFY state=UP
+2026-04-20 10:07:11 [INFO] Port change on 00-00-00-00-00-01:1 reason=DELETE state=UP
+2026-04-20 10:07:11 [INFO] Port change on 00-00-00-00-00-01:2 reason=DELETE state=UP
+2026-04-20 10:07:12 [INFO] Port change on 00-00-00-00-00-01:3 reason=DELETE state=UP
+2026-04-20 10:07:12 [ALERT] Switch disconnected: 00-00-00-00-00-01
+2026-04-20 10:11:37 [INFO] POX controller started
+2026-04-20 10:11:39 [INFO] Switch connected: 00-00-00-00-00-01
+2026-04-20 10:19:53 [INFO] Port change on 00-00-00-00-00-01:1 reason=DELETE state=UP
+2026-04-20 10:19:53 [INFO] Port change on 00-00-00-00-00-01:2 reason=DELETE state=UP
+2026-04-20 10:19:53 [INFO] Port change on 00-00-00-00-00-01:3 reason=DELETE state=UP
+2026-04-20 10:19:54 [ALERT] Switch disconnected: 00-00-00-00-00-01
+2026-04-20 10:24:24 [INFO] POX controller started
+2026-04-20 10:24:29 [INFO] Switch connected: 00-00-00-00-00-01
+2026-04-20 10:24:29 [ALERT] Port change on 00-00-00-00-00-01:65534 reason=MODIFY state=DOWN
+2026-04-20 10:38:25 [ALERT] Port change on 00-00-00-00-00-01:3 reason=MODIFY state=DOWN
+2026-04-20 10:38:38 [ALERT] Port change on 00-00-00-00-00-01:2 reason=MODIFY state=DOWN
+2026-04-20 10:38:46 [ALERT] Port change on 00-00-00-00-00-01:1 reason=MODIFY state=DOWN
+2026-04-20 10:38:59 [ALERT] Port change on 00-00-00-00-00-01:2 reason=MODIFY state=DOWN
+2026-04-20 10:38:59 [INFO] Port change on 00-00-00-00-00-01:2 reason=MODIFY state=UP
+2026-04-20 10:39:19 [ALERT] Port change on 00-00-00-00-00-01:3 reason=MODIFY state=DOWN
+2026-04-20 10:39:19 [INFO] Port change on 00-00-00-00-00-01:3 reason=MODIFY state=UP
+2026-04-20 10:41:09 [ALERT] Switch disconnected: 00-00-00-00-00-01
+2026-04-20 11:26:29 [INFO] POX controller started
+2026-04-20 11:28:08 [INFO] Switch connected: 00-00-00-00-00-01
+2026-04-20 11:28:36 [ALERT] Port change on 00-00-00-00-00-01:2 reason=MODIFY state=DOWN
+2026-04-20 11:29:00 [ALERT] Port change on 00-00-00-00-00-01:2 reason=MODIFY state=DOWN
+2026-04-20 11:29:00 [INFO] Port change on 00-00-00-00-00-01:2 reason=MODIFY state=UP
+2026-04-20 11:41:25 [INFO] POX controller started
+2026-04-20 11:41:44 [INFO] Switch connected: 00-00-00-00-00-01
+2026-04-20 11:41:51 [ALERT] Port change on 00-00-00-00-00-01:2 reason=MODIFY state=DOWN
+2026-04-20 11:41:57 [ALERT] Port change on 00-00-00-00-00-01:3 reason=MODIFY state=DOWN
+2026-04-20 11:42:03 [ALERT] Port change on 00-00-00-00-00-01:2 reason=MODIFY state=DOWN
+2026-04-20 11:42:03 [INFO] Port change on 00-00-00-00-00-01:2 reason=MODIFY state=UP
+2026-04-20 11:42:11 [ALERT] Port change on 00-00-00-00-00-01:1 reason=MODIFY state=DOWN
